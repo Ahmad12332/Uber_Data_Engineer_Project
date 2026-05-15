@@ -15,10 +15,10 @@
   },
   {
     "city_id": 3,
-    "city": "Old Chicago",
+    "city": "New Chicago",
     "state": "IL",
     "region": "Midwest",
-    "updated_at": "2026-05-14T22:14:13.220+00:00"
+    "updated_at": "2026-05-13T22:14:13.220+00:00"
   },
   {
     "city_id": 4,
@@ -43,10 +43,10 @@
   },
   {
     "city_id": 7,
-    "city": "San Antonio",
+    "city": "New San Antonio",
     "state": "TX",
     "region": "South",
-    "updated_at": "2026-05-14T22:14:13.220+00:00"
+    "updated_at": "2026-05-13T22:14:13.220+00:00"
   },
   {
     "city_id": 8,
